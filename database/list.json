@@ -1702,6 +1702,19 @@
     1601049053
   ],
   [
+    "0894dad1e54c43608664b8477e620248",
+    "1c4745021d4243a783b459d928b9088f",
+    "FrigateQARelease",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1602851708,
+    1602852363
+  ],
+  [
     "08a2b6a333714523808fa31ea142ead4",
     "ba8062bdcc1342c0b78743e3c6242575",
     "Kakopo Neon Audience",
@@ -11309,6 +11322,17 @@
     1584625836
   ],
   [
+    "379e48e4986a49fe9fe6511d122f11c6",
+    "SeaQA",
+    "Landy Test DLC 1",
+    [
+      "addons"
+    ],
+    "Epic Dev Test Account",
+    1596163261,
+    1596163261
+  ],
+  [
     "37afb12542de456292c9ff075675eaa9",
     "36336ee97ec543bbae85abaca618182b",
     "Fan pack Audience",
@@ -14115,6 +14139,19 @@
     "Epic Games",
     1559178425,
     1559178425
+  ],
+  [
+    "45139839e7b2465f85ae2104434164a8",
+    "1c4745021d4243a783b459d928b9088f",
+    "FrigateDevRelease",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1602851726,
+    1602852466
   ],
   [
     "4540bf2e3b4c4f589fa108d6a079ed21",
@@ -17455,14 +17492,14 @@
   [
     "53b32623629f4bc9ae82e05edf17df69",
     "1c4745021d4243a783b459d928b9088f",
-    "DevAzuriteAudience",
+    "DevFrigateAudience",
     [
       "audience",
       "developer"
     ],
     "Square Enix",
     1582038985,
-    1592589961
+    1602852526
   ],
   [
     "53d5a34ecb864e9aa99cc9cfd6099124",
@@ -19892,6 +19929,19 @@
     "Private Division",
     1582566546,
     1582566784
+  ],
+  [
+    "5f692623d7af4beda6760a4f04f1ac2c",
+    "1c4745021d4243a783b459d928b9088f",
+    "FrigateQADebug",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1602851717,
+    1602852395
   ],
   [
     "5f70764ca11a4cf4933e1141c5e7ba19",
@@ -22941,6 +22991,17 @@
     1587664277
   ],
   [
+    "6e8f90d95fcf4f229bb4650af562e7b1",
+    "SeaQA",
+    "item title",
+    [
+      "testing"
+    ],
+    "Epic Games",
+    1413790000,
+    1579490011
+  ],
+  [
     "6e9856389bdf4b44a3644fa69c27cfd5",
     "SeaQA",
     "Title-123",
@@ -24421,6 +24482,19 @@
     1461353440
   ],
   [
+    "75593c777d7c4a638a56caa0d3cd43b2",
+    "1c4745021d4243a783b459d928b9088f",
+    "FrigateDevDebug",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1602851729,
+    1602852492
+  ],
+  [
     "757dcc774bbd4af1b71c450dd9e9159f",
     "764eb429792649e4a606413cd649de2c",
     "South Park: Fractured But Whole",
@@ -25602,14 +25676,14 @@
   [
     "7b6277bf64f145f7b4fd028372d81606",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteGeneralAudience",
+    "FrigateGeneralAudience",
     [
       "audience",
       "public"
     ],
     "Square Enix",
     1582038985,
-    1592589961
+    1602852537
   ],
   [
     "7b7711b9f1d848a5a8b177c1c5a9dcbc",
@@ -28809,6 +28883,17 @@
     1557757180
   ],
   [
+    "8bf7479e063d4b33bc5fc270aece7dc1",
+    "SeaQA",
+    "Landy Test BaseGame",
+    [
+      "application"
+    ],
+    "Epic Dev Test Account",
+    1596163511,
+    1596163511
+  ],
+  [
     "8bfb728059fc4c3cb23b816853d12637",
     "holly",
     "HollyStaging",
@@ -30079,7 +30164,7 @@
   [
     "9194c1b9255f47809a71eafc04db4fa5",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteStaging",
+    "FrigateStaging",
     [
       "public",
       "games",
@@ -30087,7 +30172,7 @@
     ],
     "Square Enix",
     1582038985,
-    1592590075
+    1602852243
   ],
   [
     "9198ef207cc84e5d803af55a4ce37298",
@@ -38489,6 +38574,17 @@
     1576048816
   ],
   [
+    "b9ba8e2b69c84e66afe1b91ab21d0ef6",
+    "SeaQA",
+    "chucktest",
+    [
+      "testing"
+    ],
+    "Epic Games",
+    1602664453,
+    1602664453
+  ],
+  [
     "b9eb2d7b53204689b14cd6467b9e7c93",
     "catnip",
     "Borderlands 3 Moxxi's Heist of the Handsome Jackpot Audience",
@@ -41443,6 +41539,19 @@
     1602073127
   ],
   [
+    "c8529a779c4f4414b29abca872c764bf",
+    "1c4745021d4243a783b459d928b9088f",
+    "FrigateLQARelease",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1602851720,
+    1602852417
+  ],
+  [
     "c8581f13b1b0418e9a7ab712ac6fcd78",
     "0d66818e2304485f8dc3ae90c8b622b4",
     "Shadowrun Hong Kong",
@@ -41906,7 +42015,7 @@
   [
     "ca426dbad4024677b1d95808ab6941e5",
     "1c4745021d4243a783b459d928b9088f",
-    "Azurite",
+    "Frigate",
     [
       "public",
       "games",
@@ -41914,7 +42023,7 @@
     ],
     "Square Enix Japan",
     1582038985,
-    1602070613
+    1602852256
   ],
   [
     "ca52868aa7634c24859656aed98eb154",
@@ -47186,6 +47295,19 @@
     1470908212
   ],
   [
+    "e2fc4b34e25f476eacc776af10743d13",
+    "1c4745021d4243a783b459d928b9088f",
+    "FrigateLQADebug",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1602851723,
+    1602852439
+  ],
+  [
     "e311871f74b84ce79b304d6ae1c28ce8",
     "oregano",
     "LoL - DLC",
@@ -50924,6 +51046,18 @@
     "Ubisoft Entertainment",
     1554241076,
     1568386672
+  ],
+  [
+    "f67dc420219b46dcbe24d9dc38b3133e",
+    "SeaQA",
+    "Landy Test DLC2",
+    [
+      "addons",
+      "addons/consumable"
+    ],
+    "Epic Dev Test Account",
+    1596163357,
+    1596163357
   ],
   [
     "f69005cbda87491592d3684cb1bcc4f4",
